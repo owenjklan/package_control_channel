@@ -1051,6 +1051,17 @@
 			]
 		},
 		{
+			"name": "IPTools",
+			"details": "https://github.com/owenjklan/st3-iptools",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": ["linux"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "IPython Notebook",
 			"details": "https://github.com/maximsch2/SublimeIPythonNotebook",
 			"releases": [
